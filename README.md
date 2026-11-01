@@ -2,6 +2,8 @@
 
 RepoScout is a responsive repository discovery app built with React and TypeScript. It searches GitHub's public repository API and turns the results into a small, readable catalog.
 
+**Live demo:** [bakibilla474.github.io/github-repo-explorer](https://bakibilla474.github.io/github-repo-explorer/)
+
 ## Features
 
 - Search public repositories by topic, language, or name
@@ -37,4 +39,3 @@ npm run build
 ## Scope
 
 This is a learning and portfolio project. Search results are supplied by GitHub and can change over time. Search is limited by GitHub's public API policy and availability.
-
